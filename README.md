@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kavishmi
 - 👀 I’m interested in web development, programming 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Maching Learning, Devops, Azure, AWS
+- 💞️ I’m looking to collaborate on student/peer projects.
 - 📫 How to reach me kavishmi14@gmail.com 
 - 😄 Pronouns:she/her
 - ⚡ Fun fact:I enjoy playing chess and badminton in my free time.
